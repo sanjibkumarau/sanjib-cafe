@@ -4587,6 +4587,9 @@ ul {
 .single-recipe-layout1 {
   margin-bottom: 3rem;
 }
+.single-recipe-layout1 .item-figure img {
+  width: 100%;
+}
 .single-recipe-layout1 .ctg-name {
   color: #42adb7;
   font-weight: 600;
